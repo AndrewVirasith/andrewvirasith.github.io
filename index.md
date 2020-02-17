@@ -15,7 +15,7 @@ Expected Graduation: May 2023
 
 ### Experience
 Dec. 2017 - Aug. 2018 Role: Waiter
-My responsibilites were to seat customers, take orders, address any questions, serve food, wash dishes/silverware, and clean up before opening and closing. I learned to communicate with others, work in a quick and orderly manner, and develop the skill in multitasking.
+..*My responsibilites were to seat customers, take orders, address any questions, serve food, wash dishes/silverware, and clean up before opening and closing. I learned to communicate with others, work in a quick and orderly manner, and develop the skill in multitasking.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
