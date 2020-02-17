@@ -1,7 +1,7 @@
-## About Me
+## Andrew Virasith
 
 You can use the [editor on GitHub](https://github.com/AndrewVirasith/andrewvirasith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+## About Me
 Hello my name is Andrew Virasith, I am a Computer Science major enrolled at George Mason University with an expected graduation date of 2023. I enjoy taking part in tech related activites such as learning about computer parts, building computers, and programming things from scratch.
 
 ### Markdown
