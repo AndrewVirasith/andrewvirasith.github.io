@@ -5,13 +5,13 @@ You can use the [editor on GitHub](https://github.com/AndrewVirasith/andrewviras
 Hello my name is Andrew Virasith, I am a Computer Science major enrolled at George Mason University with an expected graduation date of 2023. I enjoy taking part in tech related activites such as learning about computer parts, building computers, and programming things from scratch.
 
 ### Education
-Park View High School
-Advanced Highschool Diploma
-GPA:
+⋅⋅*Park View High School
+⋅⋅*Advanced Highschool Diploma
+⋅⋅*GPA:
 
-George Mason University
-Major: Computer Science
-Expected Graduation: May 2023
+⋅⋅*George Mason University
+⋅⋅*Major: Computer Science
+⋅⋅*Expected Graduation: May 2023
 
 ### Experience
 Dec. 2017 - Aug. 2018 Role: Waiter
