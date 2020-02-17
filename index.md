@@ -4,7 +4,19 @@ You can use the [editor on GitHub](https://github.com/AndrewVirasith/andrewviras
 ## About Me
 Hello my name is Andrew Virasith, I am a Computer Science major enrolled at George Mason University with an expected graduation date of 2023. I enjoy taking part in tech related activites such as learning about computer parts, building computers, and programming things from scratch.
 
-### Markdown
+### Education
+Park View High School
+Advanced Highschool Diploma
+GPA:
+
+George Mason University
+Major: Computer Science
+Expected Graduation: May 2023
+
+### Experience
+Dec. 2017 - Aug. 2018 Role: Waiter
+My responsibilites were to seat customers, take orders, 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
