@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/AndrewVirasith/andrewvirasith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello my name is Andrew Virasith, I am a Computer Science major enrolled at George Mason University with an expected graduation date of 2023. I enjoy taking part in tech related activites such as learning about computer parts, building computers, and programming things from scratch.
 
 ### Markdown
 
