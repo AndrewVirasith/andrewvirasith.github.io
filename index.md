@@ -21,7 +21,7 @@ Dec. 2017 - Aug. 2018
 
 ### Community Service
 - First Fruits Reston Bible Church (2 Years)
-  - I and a group of friends took part in volunteer work that involved yard work such as raking leaves or gardening. Money earned from these tasks would later be spent on families in need.
+  - I and a group of friends took part in volunteer work that involved yard work such as raking leaves or gardening. Money earned from these tasks would later be donated & spent on families in need.
 
 ### Skills
 - Worked with HTML & CSS
