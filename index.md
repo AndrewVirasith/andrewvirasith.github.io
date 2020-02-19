@@ -18,7 +18,8 @@ Dec. 2017 - Aug. 2018
   - My responsibilites were to seat customers, take orders, address any questions, serve food, wash dishes/silverware, and clean up before opening and closing. I learned to communicate with others, work in a quick and orderly manner, and develop the skill in multitasking.
 
 ### Community Service
-- First Fruits Reston Bible Church: I and a group of friends took part in volunteer work that involved yard work such as raking leaves or gardening. Money earned from these tasks would later be spent on families in need.
+- First Fruits Reston Bible Church (2 Years)
+  - I and a group of friends took part in volunteer work that involved yard work such as raking leaves or gardening. Money earned from these tasks would later be spent on families in need.
 
 ### Skills
 - Worked with HTML & CSS
