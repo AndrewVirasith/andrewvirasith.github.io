@@ -6,11 +6,11 @@ Hello my name is Andrew Virasith, I am a Computer Science major enrolled at Geor
 
 ### Education
 - Park View High School
-- Advanced Highschool Diploma
+  - Advanced Highschool Diploma
 
 - George Mason University
-- Major: Computer Science
-- Expected Graduation: May 2023
+  - Major: Computer Science
+  - Expected Graduation: May 2023
 
 ### Experience
 Dec. 2017 - Aug. 2018 
