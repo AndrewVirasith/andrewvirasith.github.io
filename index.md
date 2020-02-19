@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/AndrewVirasith/andrewvirasith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 ## About Me
-Hello my name is Andrew Virasith, I am a Computer Science major enrolled at George Mason University with an expected graduation date of 2023. I enjoy taking part in tech related activites such as learning about computer parts, building computers, and programming things from scratch.
+Hello my name is Andrew Virasith, I am a Computer Science major enrolled at George Mason University with an expected graduation date of 2023. My goal is to obtain a college degree and gain experience with hands on tasks/activities that will help me grow in the future. With the experience I gain, I plan to use it to enhance my skills to appeal differently among others. 
 
 ### Education
 - Park View High School
