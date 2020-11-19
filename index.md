@@ -1,7 +1,6 @@
 ## Andrew Virasith
   - E-Mail: andrewvirasith01@gmail.com
   - Contact Number: (571)-528-2844
-  - Address: 206 Grayson Place, Sterling VA 20164
 
 ## About Me
 Hello my name is Andrew Virasith, I am a Computer Science major enrolled at George Mason University with an expected graduation date of 2023. My goal is to obtain a college degree and gain experience with hands on tasks/activities that will help me grow in the future. With the experience I gain, I plan to use it to enhance my skills to appeal differently among others. 
